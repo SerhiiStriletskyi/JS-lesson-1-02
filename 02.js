@@ -7,9 +7,10 @@
 
 // your code
 let factorial = 1;
-let counter = 1;
-while (counter <= 10) {
-  factorial = factorial * counter;
-  counter++;
-}
+let i = 1;
 
+while (i <= 10) {
+  factorial *= i;
+  i++;
+}
+counter++;
